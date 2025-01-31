@@ -1,7 +1,7 @@
 # 🚀 TERYXON – Premium Web Development
 
 <p align="center">
-  <img src="https://www.teryxon.com/storage/teryxon-logo-exclusive.png" alt="Teryxon Logo" width="250">
+  <img src="teryxon.png" alt="Teryxon Logo">
 </p>
 
 ## ⚡ Speed. Scalability. Security.  
