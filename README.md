@@ -7,18 +7,18 @@
 ## ⚡ Speed. Scalability. Security.  
 ### The Teryxon Way.
 
-Teryxon delivers **cutting-edge Laravel & React** web solutions tailored for businesses that demand the best.  
+Teryxon builds cutting-edge **Laravel & React** solutions for businesses that demand speed, scalability, and security.  
 We don’t just build websites – **we create high-performance, ultra-secure, and scalable digital experiences** that redefine the industry.
 
 ---
 
 ## 🔥 Why Choose Teryxon?
 
-✅ **Enterprise-Grade Laravel & React Development**  
-✅ **Custom SaaS & Web Application Solutions**  
-✅ **Military-Grade Security & Next-Level Performance**  
-✅ **Optimized for Scalability & Future Growth**  
-✅ **Tailored Digital Solutions for Elite Businesses**  
+✅ **Premium Laravel & React Development for Enterprises**
+✅ **Custom SaaS & Scalable Web Applications**
+✅ **Security-First Development with Advanced Protection**
+✅ **Optimized for Growth & High-Performance**
+✅ **Tailored Solutions for Forward-Thinking Businesses**
 
 Our approach blends **precision engineering** with **creative excellence**, ensuring that every project we deliver stands out in a competitive market.
 
@@ -27,7 +27,7 @@ Our approach blends **precision engineering** with **creative excellence**, ensu
 ## 💼 Meet the Founder
 
 👤 **Peter Muladi**  
-🚀 **Founder & Lead Developer**  
+🚀 **Founder & Head of Development at Teryxon** 
 🏢 **Teryxon – Premium Web Development**  
 
 📩 **hello@teryxon.com**  
@@ -44,7 +44,7 @@ Our approach blends **precision engineering** with **creative excellence**, ensu
 
 ---
 
-## 💡 Let's Build the Future of Web Development Together
+## 💡 Elevate Your Digital Presence with Teryxon
 
 🔗 **[Visit Our Website](https://www.teryxon.com)**  
 📩 **[Get in Touch](mailto:hello@teryxon.com)**  
