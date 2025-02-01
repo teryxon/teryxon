@@ -14,11 +14,11 @@ We don’t just build websites – **we create high-performance, ultra-secure, a
 
 ## 🔥 Why Choose Teryxon?
 
-✅ **Premium Laravel & React Development for Enterprises**
-✅ **Custom SaaS & Scalable Web Applications**
-✅ **Security-First Development with Advanced Protection**
-✅ **Optimized for Growth & High-Performance**
-✅ **Tailored Solutions for Forward-Thinking Businesses**
+✅ **Premium Laravel & React Development for Enterprises**  
+✅ **Custom SaaS & Scalable Web Applications**  
+✅ **Security-First Development with Advanced Protection**  
+✅ **Optimized for Growth & High-Performance**  
+✅ **Tailored Solutions for Forward-Thinking Businesses**  
 
 Our approach blends **precision engineering** with **creative excellence**, ensuring that every project we deliver stands out in a competitive market.
 
@@ -27,7 +27,7 @@ Our approach blends **precision engineering** with **creative excellence**, ensu
 ## 💼 Meet the Founder
 
 👤 **Peter Muladi**  
-🚀 **Founder & Head of Development at Teryxon** 
+🚀 **Founder & Head of Development at Teryxon**  
 🏢 **Teryxon – Premium Web Development**  
 
 📩 **hello@teryxon.com**  
