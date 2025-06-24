@@ -1,59 +1,73 @@
-# 🚀 TERYXON – Premium Web Development
+# 🚀 TERYXON – SaaS MVP Development for Startups
 
-<a href="https://www.teryxon.com">
-  <img align="center" src="teryxon.png" alt="Teryxon Logo">
+<a href="https://www.teryxon.com" target="_blank">
+  <img src="teryxon.png" alt="Teryxon Logo" align="center" height="120" />
 </a>
 
-## ⚡ Speed. Scalability. Security.  
-### The Teryxon Way.
+---
 
-Teryxon builds cutting-edge **Laravel & React** solutions for businesses that demand speed, scalability, and security.  
-We don’t just build websites – **we create high-performance, ultra-secure, and scalable digital experiences** that redefine the industry.
+## ⚡ Launch Faster. Scale Smarter.  
+### Powered by Teryxon Core.
+
+**Teryxon** builds scalable SaaS MVPs using **Laravel + React** – engineered for startups that need speed, security, and flexibility.
+
+Our proprietary development engine, **Teryxon Core**, helps founders launch production-grade MVPs with built-in authentication, subscriptions, DevOps tooling, and more.
 
 ---
 
-## 🔥 Why Choose Teryxon?
+## 🔥 Why Startups Work With Us
 
-✅ **Premium Laravel & React Development for Enterprises**  
-✅ **Custom SaaS & Scalable Web Applications**  
-✅ **Security-First Development with Advanced Protection**  
-✅ **Optimized for Growth & High-Performance**  
-✅ **Tailored Solutions for Forward-Thinking Businesses**  
-
-Our approach blends **precision engineering** with **creative excellence**, ensuring that every project we deliver stands out in a competitive market.
+✅ Laravel & React MVP Development  
+✅ Built-in Auth, RBAC, Billing, CI/CD  
+✅ Modular SaaS Architecture with Fast Iteration  
+✅ Security-First, DevOps-Ready Platform  
+✅ Founder-Level Expertise & Global Reach
 
 ---
 
-## 💼 Meet the Founder
+## 💡 About Teryxon Core
 
-👤 **Peter Muladi**  
-🚀 **Founder & Head of Development at Teryxon**  
-🏢 **Teryxon – Premium Web Development**  
-
-📩 **hello@teryxon.com**  
-🌎 **[www.teryxon.com](https://www.teryxon.com)**  
-
----
-
-## 🛠️ Technologies We Master
-
-🚀 **Laravel** – Advanced PHP Backend Development  
-⚛️ **React** – Cutting-Edge Frontend Experiences  
-☁️ **SaaS & Cloud Applications** – Scalable & Secure Architectures  
-🔒 **Security-First Development** – Protecting Your Business  
+Teryxon Core is our in-house SaaS engine designed to power early-stage startups:  
+- Reusable components  
+- Scalable backend & frontend  
+- Production tools from day one  
+- Launch-ready in **Q4 2025**
 
 ---
 
-## 💡 Elevate Your Digital Presence with Teryxon
+## 👤 Meet the Founder
 
-🔗 **[Visit Our Website](https://www.teryxon.com)**  
-📩 **[Get in Touch](mailto:hello@teryxon.com)**  
+**Peter Muladi**  
+Founder & Lead Developer, Teryxon  
+> “We don’t just code – we build engines that drive startup growth.”
+
+📩 hello@teryxon.com  
+🌐 [www.teryxon.com](https://www.teryxon.com)
+
+---
+
+## 🛠️ Tech Stack
+
+- 🧱 Laravel (Backend, APIs, Queue, Security)  
+- ⚛️ React 19 (Frontend, Hooks, SPA)  
+- 🎨 Tailwind CSS (UI System)  
+- 🐘 MySQL, Redis  
+- 🚀 CI/CD, Docker, Modular DevOps  
+- 🧠 Zustand, React Query, Vite
+
+---
+
+## 📦 Interested in Collaborating?
+
+Let’s build something extraordinary.  
+Whether you're launching your MVP or scaling your SaaS, Teryxon is your technical partner from idea to production.
+
+🔗 [Visit Our Website](https://www.teryxon.com)  
+📬 [Get in Touch](mailto:hello@teryxon.com)
 
 ---
 
 <p align="center">
-  <strong>📍 Based in New York – Serving Global Clients 🌎</strong>
+  <strong>📍 Based in New York — Building for the World 🌍</strong>
 </p>
-
----
 
