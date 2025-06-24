@@ -1,7 +1,7 @@
 # 🚀 TERYXON – SaaS MVP Development for Startups
 
 <a href="https://www.teryxon.com" target="_blank">
-  <img src="teryxon.png" alt="Teryxon Logo" align="center" height="120" width="200" />
+  <img src="teryxon.png" alt="Teryxon Logo" align="center"  />
 </a>
 
 ---
