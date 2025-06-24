@@ -31,7 +31,7 @@ Teryxon Core is our in-house SaaS engine designed to power early-stage startups:
 - Reusable components  
 - Scalable backend & frontend  
 - Production tools from day one  
-- Launch-ready in **Q4 2025 - Q1 2026**
+- Launch-ready in **Q4 2025 - 2026**
 
 ---
 
