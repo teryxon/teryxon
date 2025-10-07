@@ -1,9 +1,14 @@
-# 🧬 TERYXON – Digital Excellence  
-### From insight to execution.
+<p align="center">
+  <a href="https://www.teryxon.com" target="_blank">
+    <img src="teryxon-wallpaper.png" alt="Teryxon – Digital Excellence" width="800" />
+  </a>
+</p>
 
-<a href="https://www.teryxon.com" target="_blank">
-  <img src="teryxon.png" alt="Teryxon Logo" align="center" />
-</a>
+<h1 align="center">🧬 TERYXON – Digital Excellence</h1>
+<p align="center">
+  From the Heart of Europe to the Pulse of New York<br>
+  <em>Diagnose. Build. Grow.</em>
+</p>
 
 ---
 
