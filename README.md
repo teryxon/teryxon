@@ -82,9 +82,16 @@ Together, they create a continuous feedback loop for **Digital Excellence**.
 
 ## 👤 Founder
 
-**Peter Muladi**  
-Founder & Lead Engineer, Teryxon  
-> “We don’t just code — we build engines for digital excellence.”
+<p align="center">
+  <img src="peter-muladi.jpg" alt="Peter Muladi – Founder & Lead Engineer, Teryxon" width="180" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <strong>Peter Muladi</strong><br>
+  Founder & Lead Engineer, <a href="https://www.teryxon.com" target="_blank">Teryxon</a><br>
+  <em>“We don’t just code — we build engines for digital excellence.”</em>
+</p>
+
 
 📩 hello@teryxon.com  
 🌐 [www.teryxon.com](https://www.teryxon.com)
