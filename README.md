@@ -98,8 +98,9 @@ Whether you’re launching your MVP or analyzing business performance,
 ---
 
 <p align="center">
-  <strong>📍 Based in Europe — Engineering for the World 🌍</strong><br>
-  <em>Digital Excellence since 2025</em>
+  <strong>📍 From the Heart of Europe to the Pulse of New York 🌍</strong><br>
+  <em>Engineering Digital Excellence</em>
 </p>
+
 
 
