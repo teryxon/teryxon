@@ -21,7 +21,7 @@ Our mission:
 ## 🧩 The TERYXON Model
 
 ### **1️⃣ Teryxon Diagnosis**
-AI-assisted SaaS that analyzes your online performance and delivers monthly clarity reports.  
+AI-assisted SaaS that analyzes your online performance and delivers monthly clarity diagnosis.  
 - Automated Data Collection  
 - AI-Powered Interpretation  
 - Business Visibility Dashboards  
@@ -52,7 +52,7 @@ Engineering framework and MVP development system for startups and SaaS founders.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TERYXON CORE Tech Stack
 
 | Layer | Technology |
 |--------|-------------|
