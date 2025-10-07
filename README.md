@@ -83,7 +83,7 @@ Together, they create a continuous feedback loop for **Digital Excellence**.
 ## 👤 Founder
 
 <p align="center">
-  <img src="peter-muladi.jpg" alt="Peter Muladi – Founder & Lead Engineer, Teryxon" width="180" style="border-radius:50%;" />
+  <img src="profil.png" alt="Peter Muladi – Founder & Lead Engineer, Teryxon" width="180" style="border-radius:50%;" />
 </p>
 
 <p align="center">
