@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.teryxon.com" target="_blank">
-    <img src="teryxon-wallpaper.png" alt="Teryxon – Digital Excellence" width="800" />
+    <img src="teryxon-wallpaper.jpg" alt="Teryxon – Digital Excellence" width="800" />
   </a>
 </p>
 
