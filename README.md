@@ -1,66 +1,96 @@
-# 🚀 TERYXON – SaaS MVP Development for Startups
+# 🧬 TERYXON – Digital Excellence  
+### From insight to execution.
 
 <a href="https://www.teryxon.com" target="_blank">
-  <img src="teryxon.png" alt="Teryxon Logo" align="center"  />
+  <img src="teryxon.png" alt="Teryxon Logo" align="center" />
 </a>
 
 ---
 
-## ⚡ Launch Faster. Scale Smarter.  
-### Powered by Teryxon Core.
+## 🚀 Engineering ideas into business reality.  
+### Diagnose. Build. Grow.
 
-**Teryxon** builds scalable SaaS MVPs using **Laravel + React** – engineered for startups that need speed, security, and flexibility.
+**Teryxon** is a digital engineering company that connects **data and execution**.  
+We build scalable SaaS products and deliver AI-assisted diagnostics for business visibility.
 
-Our proprietary development engine, **Teryxon Core**, helps founders launch production-grade MVPs with built-in authentication, subscriptions, DevOps tooling, and more.
-
----
-
-## 🔥 Why Startups Work With Us
-
-✅ Laravel & React MVP Development  
-✅ Built-in Auth, RBAC, Billing, CI/CD  
-✅ Modular SaaS Architecture with Fast Iteration  
-✅ Security-First, DevOps-Ready Platform  
-✅ Founder-Level Expertise & Global Reach
+Our mission:  
+> “To engineer digital excellence — from data to decision, from decision to product.”
 
 ---
 
-## 💡 About Teryxon Core
+## 🧩 The TERYXON Model
 
-Teryxon Core is our in-house SaaS engine designed to power early-stage startups:  
-- Reusable components  
-- Scalable backend & frontend  
-- Production tools from day one  
-- Launch-ready in **Q4 2025 - 2026**
+### **1️⃣ Teryxon Diagnosis**
+AI-assisted SaaS that analyzes your online performance and delivers monthly clarity reports.  
+- Automated Data Collection  
+- AI-Powered Interpretation  
+- Business Visibility Dashboards  
+- No contracts, monthly insights  
+
+👉 [Learn more](https://www.teryxon.com/diagnosis)
 
 ---
 
-## 👤 Meet the Founder
+### **2️⃣ Teryxon Core**
+Engineering framework and MVP development system for startups and SaaS founders.  
+- Laravel + React Architecture  
+- Scalable Backend + Modular Frontend  
+- Built-in Auth, Billing, CI/CD  
+- Production-ready MVPs  
+
+👉 [Explore Teryxon Core](https://www.teryxon.com/core)
+
+---
+
+## ⚙️ Why Companies Work With Teryxon
+
+✅ Data + Engineering in one ecosystem  
+✅ Laravel & React SaaS development expertise  
+✅ Diagnostic → Development → Growth loop  
+✅ Secure, DevOps-ready architecture  
+✅ Global mindset, European precision  
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|--------|-------------|
+| **Backend** | Laravel, REST APIs, Redis, Queues |
+| **Frontend** | React, Zustand, React Query, Vite |
+| **UI** | Tailwind CSS |
+| **Database** | MySQL, Redis |
+| **Ops** | Docker, CI/CD pipelines |
+| **AI/Analysis** | OpenAI API, DataForSEO integration |
+
+---
+
+## 💡 About Teryxon
+
+Teryxon operates as a **two-pillar system**:  
+- **Teryxon Core** builds the products.  
+- **Teryxon Diagnosis** measures and improves their impact.  
+
+Together, they create a continuous feedback loop for **Digital Excellence**.
+
+---
+
+## 👤 Founder
 
 **Peter Muladi**  
-Founder & Lead Developer, Teryxon  
-> “We don’t just code – we build engines that drive startup growth.”
+Founder & Lead Engineer, Teryxon  
+> “We don’t just code — we build engines for digital excellence.”
 
 📩 hello@teryxon.com  
 🌐 [www.teryxon.com](https://www.teryxon.com)
 
 ---
 
-## 🛠️ Tech Stack
-
-- 🧱 Laravel (Backend, APIs, Queue, Security)  
-- ⚛️ React 19 (Frontend, Hooks, SPA)  
-- 🎨 Tailwind CSS (UI System)  
-- 🐘 MySQL, Redis  
-- 🚀 CI/CD, Docker, Modular DevOps  
-- 🧠 Zustand, React Query, Vite
-
----
-
-## 📦 Interested in Collaborating?
+## 📦 Collaboration
 
 Let’s build something extraordinary.  
-Whether you're launching your MVP or scaling your SaaS, Teryxon is your technical partner from idea to production.
+Whether you’re launching your MVP or analyzing business performance,  
+**Teryxon** helps you move from insight to execution.
 
 🔗 [Visit Our Website](https://www.teryxon.com)  
 📬 [Get in Touch](mailto:hello@teryxon.com)
@@ -68,6 +98,8 @@ Whether you're launching your MVP or scaling your SaaS, Teryxon is your technica
 ---
 
 <p align="center">
-  <strong>📍 Based in New York — Building for the World 🌍</strong>
+  <strong>📍 Based in Europe — Engineering for the World 🌍</strong><br>
+  <em>Digital Excellence since 2025</em>
 </p>
+
 
